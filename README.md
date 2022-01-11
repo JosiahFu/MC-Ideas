@@ -13,7 +13,7 @@ If you see syntax such as:
     |Output=Iron Pickaxe
     }}
 
-...That probably means it's in MInecraft Wiki format.
+...That probably means it's in Minecraft Wiki format.
 
 To use it, go to the [Minecraft Wiki Editing Sandbox](https://minecraft.fandom.com/wiki/Minecraft_Wiki:Sandbox) and click the edit button. Paste the contents of the text file into the text area and click Show Preview.
 
