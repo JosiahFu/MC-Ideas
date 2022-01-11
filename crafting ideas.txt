@@ -1,0 +1,77 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+--> 
+
+
+==Gilded Armor==
+{{Smithing Table
+|Input1=Diamond Chestplate
+|Input2=Gold Ingot,8
+|Output=[Gilded Diamond Chestplate]Golden Chestplate
+}}
+* Will make piglins neutral to you
+* Has the same durability as an equivalent gold armor
+* Keeps name and enchantments
+* When the durability runs out, the original piece of armor is returned
+* If a piglin picks it up and inspects it, the piglin will realize it is not solid gold and it will no longer protect you from piglins
+==Smart Furnace==
+{{Crafting Table
+|A1=Iron Ingot |B1=Redstone Dust |C1=Iron Ingot
+|A2=Nether Quartz |B2=Furnace |C2=Nether Quartz
+|A3=Smooth Stone |B3=Smooth Stone |C3=Smooth Stone
+|Output=[Smart Furnace]Blast Furnace
+}}
+* Only starts smelting when the number of items in the smelting slot is greater than or equal to the amount of burn time for the next fuel item
+
+==Crafting Ideas==
+{{Crafting Table
+|A1= |B1= Gold Nugget |C1=
+|A2=Gold Nugget |B2=Blackstone |C2=Gold Nugget
+|A3= |B3=Gold Nugget |C3=
+|Output=Gilded Blackstone
+}}
+{{Crafting Table
+|A1= |B1=Ghast Tear |C1=
+|A2=Ghast Tear |B2=Obsidian |C2=Ghast Tear
+|A3= |B3=Ghast Tear |C3=
+|Output=Crying Obsidian
+}}
+{{Crafting Table
+|B2=Honeycomb Block
+|Output=Honeycomb,4
+}}
+{{Crafting Table
+|A1=[Sculk Tendril]Twisting Vines |B1=[Sculk Core]Ender Pearl |C1=[Sculk Tendril]Twisting Vines
+|A2=[Sculk Growth]Black Carpet |B2=[Sculk Growth]Black Carpet |C2=[Sculk Growth]Black Carpet
+|A3=[Sculk Block]Obsidian |B3=[Sculk Block]Obsidian |C3=[Sculk Block]Obsidian
+|Output=Sculk Sensor
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Redstone Dust |B2=Matching Planks |C2=
+|A3= |B3= |C3=
+|Output=Matching wood Button,4
+}}
+{{Crafting Table
+|B1=String
+|B2=Honeycomb
+|B3=Any Soul Sand
+|Output=[Soul Candle]Brown Candle
+}}
+{{Inventory
+|type=anvil
+|text=Bottle o' Enchanting
+|Input1=Glass Bottle
+|Output=Bottle o' Enchanting
+|cost=1
+}}
+
+[[File:Silverfish.png|50px]]  <big>+</big>  [[File:Stone Bricks.png|50px]]  <big>=</big>  [[File:Stone Bricks.png|50px]] (infested)
+<br><br>
+[[File:Endermite.png|50px]]  <big>+</big>  [[File:Obsidian JE3 BE2.png|50px]]  <big>=</big>  [[File:Crying Obsidian JE1 BE1.png|50px]]
+<br><br>
+[[File:Endermite.png|50px]]  <big>+</big>  [[File:Purpur Block JE2 BE2.png|50px]] <big>=</big>  [[File:Shulker Box.png|50px]]

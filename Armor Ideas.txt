@@ -1,0 +1,54 @@
+Armor Ideas!
+
+1. Shulker armor.
+Crafted from shulker shells
+Slightly stronger than chainmail armor
+With full set, player can collapse themself into a block, but they cannot move
+Can stick to walls and ceilings?
+Ender pearl can be added, can be used 5 times before breaking
+
+2. Prismarine armor
+Crafter from prismarine shards and crystals
+Same as chainmail armor
+Guardians will not attack you with full set
+Has thorns effect
+
+3. Turtle armor.
+Crafted from scutes
+Each piece gives you more water breathing effect
+
+4. Heavy iron armor
+Crafted from iron ingots and iron blocks
+Slightly weaker than diamond
+Break any non-solid blocks you step on or hit (similar to ravager)
+
+5. Skeleton armor
+Crafted from bones
+Slightly weaker than chainmail armor
+Skeletons will not attack you with full set
+
+6. Wither armor
+Crafted from wither bones
+Slightly stronger than chainmail armor
+You give players wither effect
+more pieces increase length of effect
+
+7. Slime armor
+No protection
+Crafted from slimeballs
+With boots + leggins, Protects from fall damage
+With boots + leggings, Can jump slightly higher
+with chestplate + boots, can climb up walls
+With boots, slightly slower when not jumping
+
+8. Zombie armor
+Slightly weaker than leather
+crafted from rotten flesh
+With full set, zombies will not attack you
+
+9. Gilded armor
+Crafted from 4 gold ingots and a piece of armor
+Piglins will not attack you
+Same protection as base armor
+Same durability as gold armor
+When durability breaks, base armor is returned

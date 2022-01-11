@@ -1,0 +1,151 @@
+21w14/15a
+
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+{{Crafting Table
+|B2=Gold Ingot
+|B3=Gold Ingot
+|Output=[Golden Stick]Blaze Rod,2
+}}
+
+{{Crafting Table
+|A1=Oak Planks |B1=Oak Planks |C1=Oak Planks
+|A2= |B2=[Golden Stick]Blaze Rod |C2=
+|A3= |B3=[Golden Stick]Blaze Rod|C3=
+|Output=[Polden Gickaxe]Golden Pickaxe
+}}
+
+{{Slot|Raw Beef}}{{Slot|[Rotten Beef]Raw Copper}}
+
+{{Anvil
+|Input1=Diamond Pickaxe
+|Input2=Enchanted Book[&7Fire Protection I]
+|Input3=Diamond Pickaxe[&oFire Protection I]
+}}
+
+[[File:Iron Ore JE6 BE4.png|100px]][[File:Gold Ore JE7.png|100px]][[File:Copper Ore.png|100px]]
+<br>
+[[File:Raw Iron.png|100px]][[File:Raw Gold.png|100px]][[File:Raw Copper.png|100px]]
+<br>
+[[File:Block of Raw Iron.png|100px]][[File:Block of Raw Gold.png|100px]][[File:Block of Raw Copper.png|100px]]
+<br>
+[[File:Iron Ingot.png|100px]][[File:Gold Ingot.png|100px]][[File:Copper Ingot.png|100px]]
+<br>
+[[File:Iron Nugget.png|100px]][[File:Gold Nugget.png|100px]][[File:Barrier.png|100px]]
+<br>
+[[File:Block of Iron.png|100px]][[File:Block of Gold.png|100px]][[File:Block of Copper.png|100px]]
+<br>
+{{Grindstone
+|Input1=Enchanting Table
+|Output=[Table]Air
+}}
+
+
+{{Crafting Table
+|A1=Iron Ingot |B1=Iron Ingot |C1=Iron Ingot
+|A2= |B2=Debug Stick |C2=
+|A3= |B3=Debug Stick |C3=
+|Output=[Debug Pickaxe]Iron Pickaxe
+}}
+
+{{Slot|Trident[&cCurse of Binding]}}
+
+In terms of armor:<br>
+{{Slot|Iron Ingot,5}} = {{Slot|Chain,6}}<br>
+{{Slot|Iron Nugget,30}} = {{Slot|Chain,6}}<br>
+{{Slot|Iron Nugget,5}} = {{Slot|Chain,1}}<br>
+{{Slot|Iron Nugget,10}} = {{Slot|Chain,2}}<br>
+{{Slot|Iron Nugget,15}} = {{Slot|Chain,3}}<br>
+
+{{Crafting Table
+|A1= |B1=Iron Nugget |C1=
+|A2= |B2=Iron Ingot |C2=
+|A3= |B3=Iron Nugget |C3=
+|Output=Chain,2
+}}
+{{Crafting Table
+|A1=Chain |B1= |C1=Chain
+|A2=Chain |B2=Chain |C2=Chain
+|A3=Chain |B3=Chain |C3=Chain
+|Output=Chainmail Chestplate
+}}
+{{Smithing Table
+|Input1=Leather Tunic
+|Input2=Chainmail Chestplate
+|Output=[Reinforced Leather Tunic]Leather Tunic
+}}
+{{Smithing Table
+|Input1=Diamond
+|Input2=Netherite Ingot
+|Output=[Netherite]Air
+}}
+{{Smithing Table
+|Input1=Diamond Ore
+|Input2=Netherite Ingot
+|Output=[Netherite Ore]Coal Ore
+}}
+{{Crafting Table
+|A1=Gunpowder |B1=Soul Sand |C1=Gunpowder
+|A2=Soul Sand |B2=Gunpowder |C2=Soul Sand
+|A3=Gunpowder |B3=Soul Sand |C3=Gunpowder
+|Output=
+}}
+{{Furnace
+|Input=[Shulker]Shulker Box
+|Output=[Smooth Shulker]Air
+|Fuel=Coal
+}}
+{{Crafting Table
+|A1=Block of Gold |B1=Block of Gold|C1=Block of Gold
+|A2= |B2=Gold Ingot |C2=
+|A3=Gold Ingot |B3=Gold Ingot |C3=Gold Ingot
+|Output=
+}}
+{{Crafting Table
+|A1=Black Concrete |B1=Magenta Concrete |C1=
+|A2=Magenta Concrete |B2=Black Concrete |C2=
+|A3= |B3= |C3=
+|Output=Missing Texture
+}}
+{{Crafting Table
+|A1=Missing Texture |B1=Missing Texture  |C1=Missing Texture 
+|A2= |B2=Stick |C2=
+|A3= |B3=Stick |C3=
+|Output=[Missing Pickaxe]Air
+}}
+{{Furnace
+|Input=Block of Raw Iron
+|Output=Block of Iron
+|Fuel=Coal
+}}
+{{Furnace
+|Input=
+|Output=Block of Iron
+|Fuel=Coal
+}}
+{{Crafting Table
+|A1=Cactus |B1=Cactus |C1=Cactus
+|A2=Cactus |B2=Cactus |C2=Cactus
+|A3=Cactus |B3=Cactus |C3=Cactus
+|Output=
+}}
+{{Slot|[Beans]Block of Raw Gold}}
+{{Slot|[Expired Beans]Block of Raw Iron}}
+{{Slot|[Moldy Beans]Block of Raw Copper}}
+
+Current:
+
+[[File:Big Dripleaf.png|50px]] -> {{Slot|Big Dripleaf}}
+<br>
+[[File:Big Dripleaf (stem texture) JE1.png|50px]] -> {{Slot|Big Dripleaf}}
+<br>
+Suggestion:
+
+[[File:Big Dripleaf.png|50px]] -> {{Slot|Big Dripleaf}}
+<br>
+[[File:Big Dripleaf (stem texture) JE1.png|50px]] -> {{Slot|Small Dripleaf}}

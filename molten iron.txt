@@ -1,0 +1,15 @@
+Molten Iron
+ - New fluid
+ - Generates in veins of 3-8 in the nether wastes, basalt deltas, and crimson forest
+    - You can get a bucket by smelting an iron ingot/gear with a soul clay pot of lava (replacing the nugget recipe)
+ - Burns entities like lava
+ - Can only be picked up with a soul clay pot
+   - Smelting soul soil returns soul clay
+   - 3 soul clay can be crafted into a soul clay pot
+   - A soul clay pot can pick up lava or molten iron, and you can also plant nether plants in it
+ - Under the right conditions, a source block can solidify into a dried iron block
+   - Must be placed in warped forest, soul sand valley, or any overworld biome except desert or badlands
+   - Cannot be touching any hot blocks, including fire, campfire, lava, magma, or other molten iron
+   - Random amount of time from 10-30 seconds
+   - Also solidifies instantly if touching water or blue ice
+ - Dried Iron Block can be crafted into 1 iron ingot

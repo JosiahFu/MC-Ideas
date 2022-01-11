@@ -1,0 +1,90 @@
+{{Crafting Table
+|A1=Cobbled Deepslate |B1=Cobbled Deepslate |C1=
+|A2=Cobbled Deepslate |B2=Cobbled Deepslate |C2=
+|A3= |B3= |C3=
+|Output=Polished Deepslate,4
+}}
+{{Crafting Table
+|A1= |B1=Cobbled Deepslate Slab |C1=
+|A2= |B2=Cobbled Deepslate Slab |C2=
+|A3= |B3= |C3=
+|Output=Chiseled Deepslate
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Cobbled Deepslate;Polished Deepslate |B2=Cobbled Deepslate;Polished Deepslate |C2=Cobbled Deepslate;Polished Deepslate
+|A3= |B3= |C3=
+|Output=Cobbled Deepslate Slab,6;Polished Deepslate Slab,6
+}}
+{{Crafting Table
+|A1=Cobbled Deepslate;Polished Deepslate |B1= |C1=
+|A2=Cobbled Deepslate;Polished Deepslate |B2=Cobbled Deepslate;Polished Deepslate |C2=
+|A3=Cobbled Deepslate;Polished Deepslate |B3=Cobbled Deepslate;Polished Deepslate |C3=Cobbled Deepslate;Polished Deepslate
+|Output=Cobbled Deepslate Stairs,4;Polished Deepslate Stairs,4
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Cobbled Deepslate;Polished Deepslate |B2=Cobbled Deepslate;Polished Deepslate |C2=Cobbled Deepslate;Polished Deepslate
+|A3=Cobbled Deepslate;Polished Deepslate |B3=Cobbled Deepslate;Polished Deepslate |C3=Cobbled Deepslate;Polished Deepslate
+|Output=Cobbled Deepslate Wall,6;Polished Deepslate Wall,6
+}}
+{{Stonecutter
+|Input=Cobbled Deepslate
+|Output=
+Cobbled Deepslate Slab,2;
+Cobbled Deepslate Stairs;
+Cobbled Deepslate Wall;
+Polished Deepslate;
+Polished Deepslate Slab,2;
+Polished Deepslate Stairs;
+Polished Deepslate Wall;
+Chiseled Deepslate
+}}
+
+{{Furnace
+|Input=Cobbled Deepslate
+|Fuel=Coal
+|Output=Deepslate
+}}
+{{Crafting Table
+|A1=Deepslate |B1=Deepslate |C1=
+|A2=Deepslate |B2=Deepslate |C2=
+|A3= |B3= |C3=
+|Output=Deepslate Bricks,4
+}}
+{{Crafting Table
+|A1=Deepslate |B1=Deepslate |C1=Deepslate
+|A2=Deepslate |B2=Deepslate |C2=Deepslate
+|A3=Deepslate |B3=Deepslate |C3=Deepslate
+|Output=Deepslate Tiles,9
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Deepslate Bricks;Deepslate Tiles |B2=Deepslate Bricks;Deepslate Tiles |C2=Deepslate Bricks;Deepslate Tiles
+|A3= |B3= |C3=
+|Output=Deepslate Brick Slab,6;Deepslate Tile Slab,6
+}}
+{{Crafting Table
+|A1=Deepslate Bricks;Deepslate Tiles |B1= |C1=
+|A2=Deepslate Bricks;Deepslate Tiles |B2=Deepslate Bricks;Deepslate Tiles |C2=
+|A3=Deepslate Bricks;Deepslate Tiles |B3=Deepslate Bricks;Deepslate Tiles |C3=Deepslate Bricks;Deepslate Tiles
+|Output=Deepslate Brick Stairs,4;Deepslate Tile Stairs,4
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Deepslate Bricks;Deepslate Tiles |B2=Deepslate Bricks;Deepslate Tiles |C2=Deepslate Bricks;Deepslate Tiles
+|A3=Deepslate Bricks;Deepslate Tiles |B3=Deepslate Bricks;Deepslate Tiles |C3=Deepslate Bricks;Deepslate Tiles
+|Output=Deepslate Brick Wall,6;Deepslate Tile Wall,6
+}}
+{{Stonecutter
+|Input=Deepslate
+|Output=
+Deepslate Bricks;
+Deepslate Brick Slab,2;
+Deepslate Brick Stairs;
+Deepslate Brick Wall;
+Deepslate Tiles;
+Deepslate Tile Slab,2;
+Deepslate Tile Stairs;
+Deepslate Tile Wall
+}}

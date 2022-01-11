@@ -1,0 +1,83 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+{{Crafting Table
+|A1=Gunpowder |B1=Soul Sand |C1=Gunpowder
+|A2=Soul Sand |B2=Gunpowder |C2=Soul Sand
+|A3=Gunpowder |B3=Soul Sand |C3=Gunpowder
+|Output=
+}}
+{{Crafting Table
+|A1=Netherite Scrap |B1=Netherite Scrap |C1=Netherite Scrap
+|A2=Netherite Scrap |B2=Netherite Scrap |C2=Netherite Scrap
+|A3=Netherite Scrap |B3=Netherite Scrap |C3=Netherite Scrap
+|Output=[Netherite Scrap Block]Ancient Debris
+}}
+{{Crafting Table
+|A1=[Netherite Scrap Block]Ancient Debris |B1=[Netherite Scrap Block]Ancient Debris |C1=[Netherite Scrap Block]Ancient Debris
+|A2=[Netherite Scrap Block]Ancient Debris |B2=Block of Gold |C2=Block of Gold
+|A3=Block of Gold |B3=Block of Gold |C3=
+|Output=Block of Netherite
+}}
+{{Slot|[Netherite Scrap Block]Ancient Debris}} =/= {{Slot|Ancient Debris}}
+{{Smithing Table
+|Input1=Diamond Pickaxe,9
+|Input2=Block of Netherite
+|Output=Netherite Pickaxe,9
+}}
+{{Smithing Table
+|Input1=Any iron tools
+|Input2=Copper Ingot
+}}
+{{Smithing Table
+|Input1=Any iron armor
+|Input2=Copper Ingot
+}}
+{{Crafting Table
+|A2=Magma Block
+|B2=Cracked Nether Bricks
+}}
+{{Crafting Table
+|A2=Weeping Vines
+|B2=Polished Blackstone Bricks
+}}
+{{Crafting Table
+|B1=Chorus Fruit
+|A2=Chorus Fruit
+|B2=End Stone Bricks
+|C2=Chorus Fruit
+|B3=Chorus Fruit
+|Output=
+}}
+{{Furnace
+|Input=End Stone Bricks
+|Fuel=Coal
+}}
+{{Furnace
+|Input=Smooth Sandstone
+|Fuel=Coal
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2= |B2=Sandstone |C2=Sandstone
+|A3= |B3= |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Milk Bucket |B1=Milk Bucket |C1=Milk Bucket
+|A2=Sugar |B2=Egg |C2=Sugar
+|A3=Wheat |B3=Wheat |C3=Wheat
+|Output=Cake
+}}
+{{Inventory
+|type=furnace
+|title=Oven
+|Output=Cake
+|Fuel=Coal
+|lit=true
+}}
+{{Slot|Cake}}{{Slot|Bread}}{{Slot|Pumpkin Pie}}{{Slot|Mushroom Stew}}{{Slot|Beetroot Soup}}{{Slot|Rabbit Stew}}{{Slot|Suspicious Stew}}

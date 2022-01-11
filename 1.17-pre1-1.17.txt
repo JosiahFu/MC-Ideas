@@ -1,0 +1,123 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+{{BlockGrid|scale=5|p=Carved Pumpkin|i=Block of Raw Iron| p |iii| i }}
+[[File:Oak Sapling.png|100px]]<big> + </big>[[File:Shears.png|50px]]<big> = </big>[[File:Dead Bush.png|100px]]
+
+[[File:Flowering Azalea Leaves.png|100px]]<big> + </big>[[File:Bone Meal.png|50px]]<big> = </big>[[File:Azalea Leaves.png|100px]]<big> + </big>[[File:Spore Blossom.png|100px]]
+
+[[File:Azalea Leaves.png|100px]]<big> + </big>[[File:Bone Meal.png|50px]]<big> = </big>[[File:Flowering Azalea Leaves.png|100px]]
+
+[[File:Azalea.png|100px]]<big> + </big>[[File:Bone Meal.png|50px]]<big> = </big>[[File:Flowering Azalea.png|100px]]
+
+{{Crafting Table
+|A1= |B1=Iron Ingot |C1=
+|A2= |B2=Iron Nugget |C2=
+|A3= |B3=Iron Nugget |C3=
+|Output=[Iron Bolt]Chain
+}}
+{{Crafting Table
+|A1= |B1=Gold Ingot |C1=
+|A2= |B2=Gold Nugget |C2=
+|A3= |B3=Gold Nugget |C3=
+|Output=[Gold Bolt]Blaze Rod
+}}
+[[File:Block of Iron.png|100px]][[File:Iron Door.png|100px]][[File:Iron Trapdoor.png|100px]][[File:Heavy Weighted Pressure Plate.png|100px]][[File:Iron Bars.png|100px]][[File:Minecart.png|100px]]
+
+[[file:Cauldron.png|100px]][[File:Anvil.png|100px]][[File:Hopper.png|100px]][[File:Smithing Table.png|100px]]
+
+{{Crafting Table
+|A1=Amethyst Shard |B1=Amethyst Shard |C1=Amethyst Shard
+|A2= |B2=Stick |C2=
+|A3= |B3=Stick |C3=
+|Output=[Amethyst Pickaxe]Iron Pickaxe
+}}
+
+{{Crafting Table
+|A1= |B1=Blaze Powder |C1=
+|A2= |B2=Coal |C2=
+|A3= |B3=Bone |C3=
+|Output=[Blaze Torch]Torch
+}}
+{{BlockGrid|scale=5|p=Carved Pumpkin|i=Stone| p | i | i }}
+
+{{Crafting Table
+|A1=Block of Amethyst |B1=Block of Amethyst |C1=
+|A2=Block of Amethyst |B2=Block of Amethyst |C2=
+|A3= |B3= |C3=
+|Output=[Polished Amethyst]Air
+}}
+{{Slot|[Raw Quartz]Calcite}}
+
+[[File:Calcite.png|100px]]<big> + </big>[[File:Iron Pickaxe.png|50px]]<big> = </big>[[File:Nether Quartz.png|50px]][[File:Nether Quartz.png|50px]][[File:Nether Quartz.png|50px]][[File:Nether Quartz.png|50px]]
+
+[[File:Nether Quartz.png|100px]]<big> + </big>[[File:Iron Pickaxe.png|50px]]<big> = </big>[[File:Nether Quartz.png|50px]]
+
+{{Crafting Table
+|A1=Nether Quartz |B1=Nether Quartz |C1=
+|A2=Nether Quartz |B2=Nether Quartz |C2=
+|A3= |B3= |C3=
+|Output=[Raw Quartz]Calcite
+}}
+{{Crafting Table
+|A1=[Raw Quartz]Calcite |B1=[Raw Quartz]Calcite |C1=
+|A2=[Raw Quartz]Calcite |B2=[Raw Quartz]Calcite |C2=
+|A3= |B3= |C3=
+|Output=Block of Quartz,4
+}}
+{{Crafting Table
+|B2=[Raw Quartz]Calcite
+|Output=Nether Quartz,4
+}}
+{{FakeImage|align=left|
+{{Sprite grid|scale=2
+|b=Smooth Basalt |s=Blackstone |q=Calcite |n=ItemSprite:Nether Quartz |o=ItemSprite:Nether Quartz-rot90 |p=ItemSprite:Nether Quartz-rot180 |r=ItemSprite:Nether Quartz-rot270
+|   bbb
+|  bsssb
+| bsqqqsb
+|bsq  pqsb
+|bsqo rqsb
+|bsq n qsb
+| bsqqqsb
+|  bsssb
+|   bbb
+}}
+}}
+{{FakeImage|align=left|
+{{BlockGrid|scale=2
+|d=Pointed Dripstone |n=ItemSprite:Nether Quartz |q=Nether Quartz Ore |l=Lava |g=Glass |t=Netherrack
+|glg
+| g
+| d
+|
+| n
+|tqt
+}}
+}}
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+{{Crafting Table
+|A1= |B1=Glowstone Dust |C1=
+|A2=Glowstone Dust |B2=Redstone Lamp |C2=Glowstone Dust
+|A3=Iron Nugget |B3=Phantom Membrane |C3=Iron Nugget
+|Output=Light 15
+}}
+{{Crafting Table
+|A1=Nether Quartz |B1=Nether Quartz |C1=Nether Quartz
+|A2=Nether Quartz |B2=Iron Nugget |C2=Nether Quartz
+|A3=Nether Quartz |B3=Nether Quartz |C3=Nether Quartz
+|Output=Amethyst Shard,8
+}}
+{{Crafting Table
+|A1= |B1=Amethyst Shard |C1=
+|A2= |B2=Stick |C2=
+|A3= |B3= |C3=
+|Output=[Amethyst Knife]Air
+}}
+{{Smithing Table
+|Input1=Netherite Chestplate
+|Input2=Cactus
+}}

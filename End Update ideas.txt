@@ -1,0 +1,40 @@
+===End Update Ideas===
+
+==New biomes==
+
+* Warped forest?
+  * Warped chorus plant?
+  * Warped nylium-endstone block (warpendium? warpstone?)
+  * Warped nylium can spread to end stone
+  * Provides connection to nether
+  * Possibly some sort of portal?
+
+* Junkyard biome
+  * No chorus plants
+  * Has a collection of random blocks from all the dimensions that endermen can pick up
+  * Flowers/cactus/fungi/roots/mushrooms will generate with a valid block underneath
+
+* Swamp-like biome
+  * Black thick liquid, with pools scattered around
+  * Chorus bushes/grass?
+
+* A biome with liquid? and food?-
+
+
+==New resources==
+A new ore
+Food maybe?
+
+
+
+New mobs? Maybe a flying one to fight with elytra only
+
+==Mobs==
+
+* Vulture/Phantom-like mob
+  * Attacks players that fly with elytra
+  * has ranged and shockwave attacks
+  * 
+
+New structures, to make end busting more interesting
+A reason to set up an actual base in the end

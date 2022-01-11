@@ -1,0 +1,43 @@
+Bluestone mod (name WIP)
+
+Bluestone dust
+Acts exacly like redstone dust, except it does not conncect to redstone dust
+Cannot transmit signal directly to redstone dust
+Cannot connect to redstone devices such as repeaters and comparators
+CAN power redstone indirectly (by powering neighboring blocks)
+Can be used in most crafting recipes redstone can (pistons, dispensers, droppers, rails, etc.)
+
+Bluestone ore
+Generates in the End
+Flashes and places several pieces of bluestone dust on the ground when broken
+
+Junction
+Crafted from cobbleston, nether quartz, redstone, and bluestone
+connects to both redstone and bluestone
+
+Bluestone torch
+Acts like redstone torch, except it is on when it is powered and off when it is not
+		
+Bluestone repeater
+No delay, is a pulse extender, extending the pulse for however many seconds it is set to
+
+Bluestone comparator
+In compare mode, it outputs a signal of 15 if the signal from the back matches either of the two side inputs
+In addition mode, it adds the signal strengths together, capped at 15
+In detection mode, outputs a signal (unaffected by side signals) depending on the block 2 blocks behind it
+Opaque block: 15
+Solid transparent block: 12
+Partially solid block: 9
+Non-solid block: 6
+Liquid/Fire: 3
+Air: 0
+
+
+Bluestone Block
+When powered, activates any bluestone lamps within 7x7 area
+
+Bluestone Lamp
+Crafted from bluestone dust and Sea lantern or End rod (TBD)
+Can only be activated by bluestone block
+Activation can be detected by observer
+Can be ubverted

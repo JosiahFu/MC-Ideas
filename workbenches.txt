@@ -1,0 +1,16 @@
+{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+[[File:Blank.png|100px]][[File:Oak Planks JE6 BE3.png|100px]][[File:Spruce Planks JE4 BE2.png|100px]][[File:Birch Planks JE3 BE2.png|100px]][[File:Jungle Planks JE3 BE2.png|100px]][[File:Acacia Planks JE3 BE2.png|100px]][[File:Dark Oak Planks JE3 BE2.png|100px]][[File:Crimson Planks JE1 BE1.png|100px]][[File:Warped Planks JE1 BE1.png|100px]]
+<br>
+[[File:Chest (E) JE2 BE2.png|100px]][[File:Crafting Table JE4.png|100px]][[File:Barrel (U) JE1 BE1.png|100px]][[File:Fletching Table JE2 BE1.png|100px]][[File:Loom (E) JE1 BE1.png|100px]][[File:Composter.png|100px]][[File:Cartography Table JE2 BE1.png|100px]][[File:Smithing Table JE2 BE2.png|100px]]
+<br>
+[[File:Jukebox JE2 BE2.png|100px]][[File:Bookshelf JE4 BE2.png|100px]][[File:Smoker (E) JE1.png|100px]][[File:Blank.png|100px]][[File:Blank.png|100px]][[File:Blank.png|100px]][[File:Daylight Detector JE1 BE1.png|100px]]
+<br>
+[[File:Note Block JE2 BE2.png|100px]][[File:Lectern JE2 BE1.png|100px]]
+<br>
+[[File:Blank.png|100px]][[File:Beehive (E) JE1.png|100px]]

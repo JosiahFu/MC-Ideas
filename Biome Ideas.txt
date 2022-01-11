@@ -1,0 +1,28 @@
+Petrified Woods
+
+Only spawns creepers
+Trees are made of petrified logs and leaves
+Ground is made of gravel with moss on top
+Patches of ash and magma
+
+==Petrified Logs==
+Decorative building block
+Can be polished
+Cannot be crafted into planks
+
+==Petrified Leaves==
+Decorative building block
+Gives gravel when broken (unless with silk touch)
+
+==Moss==
+New plant
+Is 1 pixel high, like carpet
+grows on stone type blocks
+grows quickly on gravel
+
+==Ash==
+New block
+Falls like sand
+Created sometimes when blocks are burned or blown up
+Explosions, fire, lava, and magma blocks "heat" ash
+Hot ash does not fall and inflicts damage like magma blocks

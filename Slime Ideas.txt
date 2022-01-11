@@ -1,0 +1,8 @@
+Slime-related additions
+
+- Rare chance to find size 4 slimes
+- Slime cave biome replacing slime chunks, slimes of any size can spawn in slime caves
+- Slime puddle: new block that can be placed on any surface like glow lichen. Obtained by right-clicking a block with slimeball. Slime puddles slow down entities that move on them.
+- Slime caves have swamp-colored water, occasional slime blocks, and slime puddles on the ceiling, floors and walls
+- Honey slime can be created when a filled beehive drips on a size-1 slime for long enough. Honey slimes slide along the floor and can climb up walls. Honey slimes can merge together unlike regular slimes. They also inflict slowness.
+

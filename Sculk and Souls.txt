@@ -1,0 +1,159 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+
+=Sculk & Souls Mod=
+{{Crafting Table
+|A1=Sculk Vein |B1=Sculk  |C1=Sculk Vein
+|A2=Sculk Vein |B2=[Sculk Core]Ender Pearl |C2=Sculk Vein
+|A3=Bone Block |B3=Bone Block |C3=Bone Block
+|Output=Sculk Catalyst
+}}
+
+==Sculk Core==
+{{Crafting Table
+|A1= |B1=Sculk |C1=
+|A2=Sculk |B2=[Sculk Core]Ender Pearl |C2=Sculk
+|A3= |B3=Sculk |C3=
+|Output=[Sculk Core]Ender Pearl,2
+}}
+* Can be found in deep dark chests
+* Used to craft several other sculk components
+
+==Sculk Canister==
+{{Crafting Table
+|A1= |B1=Sculk Sensor |C1=
+|A2=Iron Ingot |B2=Sculk Catalyst |C2=Iron Ingot
+|A3= |B3=Iron Ingot |C3=
+|Output=[Sculk Canister]Water Bucket
+}}
+* An item that stores souls
+* Souls are added when a player holds the canister and kills a mob
+* The mob drops the same number of soul points as xp
+* Each canister can store up to 100 soul points
+
+==Sculk Staff==
+{{Crafting Table
+|A1= |B1=Sculk Catalyst |C1=
+|A2=Sculk Vein |B2=Bone |C2=Sculk Vein
+|A3= |B3=Bone |C3=
+|Output=[Sculk Staff]Trident
+}}
+*
+
+==Sculked Deepslate==
+{{Crafting Table
+|A1= |B1=Sculk Vein |C1=
+|A2=Sculk Vein |B2=Cobbled Deepslate |C2=Sculk Vein
+|A3= |B3=Sculk Vein |C3=
+|Output=[Sculked Deepslate Chip]Netherite Scrap
+}}
+{{Crafting Table
+|A1=[Sculked Deepslate Chip]Netherite Scrap |B1=[Sculked Deepslate Chip]Netherite Scrap |C1=
+|A2=[Sculked Deepslate Chip]Netherite Scrap |B2=[Sculked Deepslate Chip]Netherite Scrap |C2=
+|A3= |B3= |C3=
+|Output=[Sculked Deepslate]Netherite Ingot
+}}
+* An item used to craft tougher armor
+
+==Sculk Tendril==
+{{Crafting Table
+|A1= |B1=Sculk Vein |C1=
+|A2=Sculk Vein |B2=[Sculk Core]Ender Pearl |C2=Sculk Vein
+|A3= |B3=Sculk Vein |C3=
+|Output=[Sculk Tendril]Twisting Vines
+}}
+* Can be combined with any tool in a smithing table
+* Boosts the tool's attributes when the player has a filled soul canister.
+
+==Sculked Tools==
+'''Note: all the attributes listed for tools below apply only when the player has a filled soul canister'''
+
+===Sculked Sword===
+{{Smithing Table
+|Input1=Wooden Sword; Stone Sword; Iron Sword; Golden Sword; Diamond Sword; Netherite Sword
+|Input2=[Sculk Tendril]Twisting Vines
+|Output=[Sculked Wooden Sword]Wooden Sword; [Sculked Stone Sword]Stone Sword; [Sculked Iron Sword]Iron Sword; [Sculked Golden Sword]Golden Sword; [Sculked Diamond Sword]Diamond Sword; [Sculked Netherite Sword]Netherite Sword	
+}}
+* Deals {{hp|3}} more damage when the player has a filled soul canister
+* Has same effect as Sweeping Edge I when the player has a filled soul canister
+** Stacks with sweeping edge
+* Consumes 1 soul point per hit
+
+===Sculked Pickaxe===
+{{Smithing Table
+|Input1=Wooden Pickaxe; Stone Pickaxe; Iron Pickaxe; Golden Pickaxe; Diamond Pickaxe; Netherite Pickaxe
+|Input2=[Sculk Tendril]Twisting Vines
+|Output=[Sculked Wooden Pickaxe]Wooden Pickaxe; [Sculked Stone Pickaxe]Stone Pickaxe; [Sculked Iron Pickaxe]Iron Pickaxe; [Sculked Golden Pickaxe]Golden Pickaxe; [Sculked Diamond Pickaxe]Diamond Pickaxe; [Sculked Netherite Pickaxe]Netherite Pickaxe	
+}}
+* Has same effect as Haste VI
+** Stacks with haste
+** Allows instant mining of deepslate with an Efficiency V sculked netherite pickaxe and Haste II
+* Each block broken has a 10% chance of consuming 1 soul point
+
+===Sculked Axe===
+{{Smithing Table
+|Input1=Wooden Axe; Stone Axe; Iron Axe; Golden Axe; Diamond Axe; Netherite Axe
+|Input2=[Sculk Tendril]Twisting Vines
+|Output=[Sculked Wooden Axe]Wooden Axe; [Sculked Stone Axe]Stone Axe; [Sculked Iron Axe]Iron Axe; [Sculked Golden Axe]Golden Axe; [Sculked Diamond Axe]Diamond Axe; [Sculked Netherite Axe]Netherite Axe	
+}}
+* Has 100% chance of disabling shields
+* Cooldown time reduced by 25%
+* Consumes 1 soul point per hit
+
+===Sculked Hoe===
+{{Smithing Table
+|Input1=Wooden Hoe; Stone Hoe; Iron Hoe; Golden Hoe; Diamond Hoe; Netherite Hoe
+|Input2=[Sculk Tendril]Twisting Vines
+|Output=[Sculked Wooden Hoe]Wooden Hoe; [Sculked Stone Hoe]Stone Hoe; [Sculked Iron Hoe]Iron Hoe; [Sculked Golden Hoe]Golden Hoe; [Sculked Diamond Hoe]Diamond Hoe; [Sculked Netherite Hoe]Netherite Hoe
+}}
+* Breaks a 3x3 of plants
+* Breaks a plus shape of hoe-harvestable materials
+* Automatically replants when used to break crops
+* Each block broken has a 25% chance of consuming 1 soul point
+==Sculk Armor==
+All sculk armor pieces have 750 durability and the same protection as chainmail
+===Sculk Sensor Helmet===
+{{Crafting Table
+|A1=Sculk Vein |B1=Sculk Sensor |C1=Sculk Vein
+|A2=[Sculked Deepslate]Netherite Ingot |B2=[Sculked Deepslate]Netherite Ingot |C2=[Sculked Deepslate]Netherite Ingot
+|A3=[Sculked Deepslate]Netherite Ingot |B3= |C3=[Sculked Deepslate]Netherite Ingot
+|Output=[Sculk Sensor Helmet]Netherite Helmet
+}}
+* Allows the player to receive and see vibrations
+* Vibrations appear as expanding concentric rings: [[File:Shriek.png|50px]]
+** The particles are opaque in total darkness and almost transparent in broad daylight to prevent obstruction
+* Vibrations can travel through walls (except wool)
+* The helmet does not pick up the player's own movements and actions
+===Sculk Detection Boots===
+{{Crafting Table
+|A1=[Sculked Deepslate]Netherite Ingot |B1= |C1=[Sculked Deepslate]Netherite Ingot
+|A2=[Sculked Deepslate]Netherite Ingot |B2=[Sculk Core]Ender Pearl |C2=[Sculked Deepslate]Netherite Ingot
+|A3=Sculk |B3= |C3=Sculk
+|Output=[Sculk Detection Boots]Netherite Boots
+}}
+* Allows the player to see nearby sculk blocks while touching sculk blocks
+* Works even with blindness & darkness effect
+* Sculk blocks behind walls are dimmed but still visible
+* Can only see sculk blocks connected to the same group (can span 1-block gaps)
+===Sculk Leggings===
+{{Crafting Table
+|A1=[Sculked Deepslate]Netherite Ingot |B1=[Sculked Deepslate]Netherite Ingot |C1=[Sculked Deepslate]Netherite Ingot
+|A2=Sculk |B2= |C2=Sculk
+|A3=[Sculked Deepslate]Netherite Ingot |B3= |C3=[Sculked Deepslate]Netherite Ingot
+|Output=[Sculk Leggings]Netherite Leggings
+}}
+* Speed while sneaking is 75% instead of 25%
+===Sculk Chestplate===
+{{Crafting Table
+|A1=[Sculked Deepslate]Netherite Ingot |B1= |C1=[Sculked Deepslate]Netherite Ingot
+|A2=Sculk |B2=[Sculk Core]Ender Pearl |C2=Sculk
+|A3=[Sculked Deepslate]Netherite Ingot |B3=[Sculked Deepslate]Netherite Ingot |C3=[Sculked Deepslate]Netherite Ingot
+|Output=[Sculk Chestplate]Netherite Chestplate
+}}
+* Reduces attack damage from warden by 50%
+* Decreases warden smell radius to 50%

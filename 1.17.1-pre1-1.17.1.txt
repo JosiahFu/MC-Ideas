@@ -1,0 +1,76 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+{{Crafting Table
+|B1=Any Planks
+|A2=[Copper Sheet]Copper Ingot |B2=[Fluid Tank]Glass |C2=[Copper Sheet]Copper Ingot
+|A3=[Iron Sheet]Paper |B3=[Piston Extension Pole]Oak Fence |C3=[Iron Sheet]Paper
+|Output=[Hydraulic Piston]Piston
+}}
+{{Crafting Table
+|B2=Block of Amethyst
+|Output=Amethyst Shard,4
+}}
+
+[[File:Weathered Copper Block.png|100px]][[File:Weathered Cut Copper.png|100px]][[File:Oxidized Copper Block.png|100px]][[File:Oxidized Cut Copper.png|100px]][[File:Block of Diamond.png|100px]][[File:Prismarine.png|100px]][[File:Prismarine Bricks.png|100px]][[File:Dark Prismarine.png|100px]][[File:Sea Lantern.png|100px]][[File:Soul Fire.png|100px]][[File:Soul Torch.png|100px]][[File:Soul Lantern.png|100px]]
+
+{{Crafting Table
+|A1= |B1= |C1=Stick
+|A2= |B2=Stick |C2=String
+|A3=Stick |B3=String |C3=String
+|Output=Bow
+}}
+
+{{Crafting Table
+|A1= |B1=Stick |C1=String
+|A2=Stick |B2= |C2=String
+|A3= |B3=Stick |C3=String
+|Output=Bow
+}}
+
+{{Crafting Table
+|A1=Stick |B1=String |C1=
+|A2=Stick |B2= |C2=String
+|A3=Stick |B3=String |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Gold Nugget |B1=Amethyst Shard |C1=Gold Nugget
+|A2=Amethyst Shard |B2=Eye of Ender |C2=Amethyst Shard
+|A3=Gold Nugget |B3=Amethyst Shard |C3=Gold Nugget
+|Output=[Refraction Amulet]Golden Apple
+}}
+{{BlockGrid|scale=2
+|d=Cobbled Deepslate |b=Polished Basalt Top
+|dbdbdbdb
+|bdbdbdbd
+|dbdbdbdb
+|bdbdbdbd
+|dbdbdbdb
+|bdbdbdbd
+|dbdbdbdb
+|bdbdbdbd
+}}
+
+
+{{Crafting Table
+|A1=Rotten Flesh |B1=Rotten Flesh |C1=Rotten Flesh
+|A2=Rotten Flesh |B2=Rotten Flesh |C2=Rotten Flesh
+|A3=Rotten Flesh |B3=Rotten Flesh |C3=Rotten Flesh
+|Output=[Block of Rotten Flesh]Exposed Cut Copper
+}}
+
+{{Crafting Table
+|A1= |B1= |C1=
+|A2= |B2=[Block of Rotten Flesh]Exposed Cut Copper |C2=
+|A3= |B3= |C3=
+|Output=Rotten Flesh,9
+}}
+
+[[File:Exposed Cut Copper.png|100px]] --> [[File:Warped Hyphae.png|100px]]
+
+[[File:Soul Campfire.png|100px]] _ _ [[File:Soul Campfire.png|100px]]

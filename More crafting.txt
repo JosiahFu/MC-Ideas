@@ -1,0 +1,108 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+{{Brewing Stand
+|Input=End Crystal
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|regeneration}}{{EffectSprite|resistance}}
+{{Brewing Stand
+|Input=Amethyst Shard
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|invisibility}}{{EffectSprite|swiftness}}
+{{Brewing Stand
+|Input=Golden Pickaxe
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|haste}}
+{{Brewing Stand
+|Input=Shulker Shell
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|levitation}}
+{{Brewing Stand
+|Input=Wither Rose
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|wither}}
+{{Brewing Stand
+|Input=Rotten Flesh
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|nausea}}
+{{Brewing Stand
+|Input=Eye of Ender
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{Brewing Stand
+|Input=Ink Sac
+|Output1=Awkward Potion
+|Output2=Awkward Potion
+|Output3=Awkward Potion
+}}
+{{EffectSprite|blindness}}
+{{Crafting Table
+|A2=Brick
+|C2=Brick
+|B3=Brick
+|Output=Flower Pot
+}}
+{{Furnace
+|Input=Clay
+|Fuel=Coal
+|Output=Terracotta
+}}
+
+{{Crafting Table
+|A2=Clay
+|C2=Clay
+|B3=Clay
+|Output=[Clay Pot]Clay
+}}
+{{Furnace
+|Input=[Clay Pot]Clay
+|Fuel=Coal
+|Output=[Fired Clay Pot]Terracotta
+}}
+{{Crafting Table
+|A2=Terracotta
+|C2=Terracotta
+|B3=Terracotta
+|Output=[Fired Clay Pot]Terracotta
+}}
+[[File:Oak Planks JE6 BE3.png|50px]][[File:Spruce Planks JE4 BE2.png|50px]][[File:Birch Planks JE3 BE2.png|50px]][[File:Jungle Planks JE3 BE2.png|50px]][[File:Acacia Planks JE3 BE2.png|50px]][[File:Dark Oak Planks JE3 BE2.png|50px]][[File:Crimson Planks JE1 BE1.png|50px]][[File:Warped Planks JE1 BE1.png|50px]][[File:Stone JE4 BE3.png|50px]][[File:Polished Blackstone JE1 BE1.png|50px]][[File:Block of Iron JE4 BE3.png|50px]][[File:Block of Gold JE6 BE3.png|50px]]
+<br>
+[[File:Oak Door.png|50px]][[File:Spruce Door.png|50px]][[File:Birch Door.png|50px]][[File:Jungle Door.png|50px]][[File:Acacia Door.png|50px]][[File:Dark Oak Door.png|50px]][[File:Crimson Door.png|50px]][[File:Warped Door.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Iron Door.png|50px]][[File:Barrier.png|50px]]
+<br>
+[[File:Oak Trapdoor.png|50px]][[File:Spruce Trapdoor.png|50px]][[File:Birch Trapdoor.png|50px]][[File:Jungle Trapdoor.png|50px]][[File:Acacia Trapdoor.png|50px]][[File:Dark Oak Trapdoor.png|50px]][[File:Crimson Trapdoor.png|50px]][[File:Warped Trapdoor.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Iron Trapdoor.png|50px]][[File:Barrier.png|50px]]
+<br>
+[[File:Oak Fence.png|50px]][[File:Spruce Fence.png|50px]][[File:Birch Fence.png|50px]][[File:Jungle Fence.png|50px]][[File:Acacia Fence.png|50px]][[File:Dark Oak Fence.png|50px]][[File:Crimson Fence.png|50px]][[File:Warped Fence.png|50px]][[File:Barrier.png|50px]][[File:Polished Blackstone Wall.png|50px]][[File:Iron Bars.png|50px]][[File:Barrier.png|50px]]
+<br>
+[[File:Oak Fence Gate.png|50px]][[File:Spruce Fence Gate.png|50px]][[File:Birch Fence Gate.png|50px]][[File:Jungle Fence Gate.png|50px]][[File:Acacia Fence Gate.png|50px]][[File:Dark Oak Fence Gate.png|50px]][[File:Crimson Fence Gate.png|50px]][[File:Warped Fence Gate.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]]
+<br>
+[[File:Oak Pressure Plate.png|50px]][[File:Spruce Pressure Plate.png|50px]][[File:Birch Pressure Plate.png|50px]][[File:Jungle Pressure Plate.png|50px]][[File:Acacia Pressure Plate.png|50px]][[File:Dark Oak Pressure Plate.png|50px]][[File:Crimson Pressure Plate.png|50px]][[File:Warped Pressure Plate.png|50px]][[File:Stone Pressure Plate.png|50px]][[File:Polished Blackstone Pressure Plate.png|50px]][[File:Heavy Weighted Pressure Plate.png|50px]][[File:Light Weighted Pressure Plate.png|50px]]
+<br>
+[[File:Oak Button.png|50px]][[File:Spruce Button.png|50px]][[File:Birch Button.png|50px]][[File:Jungle Button.png|50px]][[File:Acacia Button.png|50px]][[File:Dark Oak Button.png|50px]][[File:Crimson Button.png|50px]][[File:Warped Button.png|50px]][[File:Stone Button.png|50px]][[File:Polished Blackstone Button.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]]
+<br>
+[[File:Oak Standing Sign.png|50px]][[File:Spruce Standing Sign.png|50px]][[File:Birch Standing Sign.png|50px]][[File:Jungle Standing Sign.png|50px]][[File:Acacia Standing Sign.png|50px]][[File:Dark Oak Standing Sign.png|50px]][[File:Crimson Standing Sign.png|50px]][[File:Warped Standing Sign.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]]
+<br>
+[[File:Oak Boat.png|50px]][[File:Spruce Boat.png|50px]][[File:Birch Boat.png|50px]][[File:Jungle Boat.png|50px]][[File:Acacia Boat.png|50px]][[File:Dark Oak Boat.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]][[File:Barrier.png|50px]]

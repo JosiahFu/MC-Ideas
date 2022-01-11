@@ -1,0 +1,6 @@
+Obsidian+ mod
+
+Crying obsidian can be made by right-clicking obsidian with flint and steel while it is >75% broken. This can be done using offhand, or two players.
+Crying obsidian is unstable, and if it does not have at least 4 normal obsidian within 2 blocks it has a chance of randomly exploding or imploding
+Two crying obsidian can be linked by dropping them together with blaze powder. The linked crying obsidian will stack with eachother but not other crying obsidian.
+Dropping an item on a linked crying obsidian will sort of half-teleport it to the other crying obsidian. The item will exist in both places until it is removed (via hopper or breaking), at which point it will disappear from the other obsidian block

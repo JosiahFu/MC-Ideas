@@ -1,0 +1,287 @@
+{{Sandbox heading}}
+<!--
+*               Welcome to the sandbox!              *
+*            Please leave this part alone            *
+*           The page is cleared regularly            *
+*     Feel free to try your editing skills below     *
+-->
+[[File:Torch.png|200px]][[File:Redstone Torch.png|200px]]
+
+{{FakeImage|align=left|
+[[File:Powder Snow.png|200px]][[File:Blaze.png|200px]]
+}}
+[[File:Shroomlight.png|100px]][[File:Honeycomb Block.png|100px]][[File:Quartz Bricks.png|100px]][[File:Block of Gold.png|100px]][[File:Bone Block.png|100px]][[File:Deepslate Tile Stairs.png|100px]][[File:Deepslate Tile Wall.png|100px]][[File:Deepslate Tiles.png|100px]]
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Pumpkin |B2=Sugar |C2=
+|A3= |B3=Egg |C3=
+|Output=Pumpkin Pie
+}}
+{{Crafting Table
+|A1=Apple |B1= |C1=
+|A2=Apple |B2=Sugar |C2=
+|A3= |B3=Egg |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Sweet Berries |B1=Sweet Berries |C1=
+|A2=Sweet Berries |B2=Sugar |C2=
+|A3=Sweet Berries |B3=Egg |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Chorus Fruit |B1= |C1=
+|A2=Chorus Fruit |B2=Sugar |C2=
+|A3= |B3=Dragon Egg |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Moss Block |B1=Moss Block |C1=Moss Block
+|A2=Cobbled Deepslate |B2=Copper Ingot |C2=Cobbled Deepslate
+|A3=Cobbled Deepslate |B3=Redstone Dust |C3=Cobbled Deepslate
+|Output=
+}}
+{{Crafting Table
+|A1=Block of Copper |B1=Redstone Dust |C1=Block of Copper
+|A2=Redstone Dust |B2=Nether Quartz |C2=Redstone Dust
+|A3=Block of Copper |B3=Redstone Dust |C3=Block of Copper
+|Output=
+}}
+{{Crafting Table
+|A1=Iron Sword |B1= |C1=Feather
+|A2=Target |B2=Birch Planks |C2=Bow
+|A3=Arrow |B3=String |C3=Arrow
+|Output=Fletching Table
+}}
+
+For desert we have: 
+{{Slot|Dark Oak Trapdoor}}{{Slot|Ancient Debris}}
+
+{{Crafting Table
+|B2=Rotten Flesh
+|B3=Piston
+|Output=[Stinky Piston]Sticky Piston
+}}
+
+{{Crafting Table
+|B2=Ender Chest
+|C2=Tripwire Hook
+|Output=[Trapped Ender Chest]Ender Chest
+}}
+
+{{Crafting Table
+|A1= |B1=Iron Ingot |C1=
+|A2=Iron Ingot |B2=Redstone Dust |C2=Iron Ingot
+|A3= |B3=Iron Ingot |C3=
+|Output=Compass
+}}
+{{Crafting Table
+|A1= |B1=Gold Ingot |C1=
+|A2=Gold Ingot |B2=Redstone Dust |C2=Gold Ingot
+|A3= |B3=Gold Ingot |C3=
+|Output=Clock
+}}
+{{Crafting Table
+|A1= |B1=Copper Ingot |C1=
+|A2=Copper Ingot |B2=Redstone Dust |C2=Copper Ingot
+|A3= |B3=Copper Ingot |C3=
+|Output=
+}}
+{{Crafting Table
+|A1= |B1=Netherite Ingot |C1=
+|A2=Netherite Ingot |B2=Redstone Dust |C2=Netherite Ingot
+|A3= |B3=Netherite Ingot |C3=
+|Output=
+}}
+{{Crafting Table
+|A2=Cocoa Beans
+|B2=Milk Bucket
+|C2=Sugar
+|Output=Dark Oak Trapdoor
+}}
+{{Crafting Table
+|A1=Iron Ingot |B1=Redstone Dust |C1=Iron Ingot
+|A2=Iron Ingot |B2=Crafting Table |C2=Iron Ingot
+|A3=Smooth Stone |B3=Nether Quartz |C3=Smooth Stone
+|Output=
+}}
+{{Crafting Table
+|A1=Obsidian |B1=Eye of Ender |C1=Obsidian
+|A2=Obsidian |B2=Ender Chest |C2=Obsidian
+|A3= |B3=Obsidian |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Glass |B1=Iron Bars |C1=Glass
+|A2=Iron Bars |B2=Obsidian |C2=Iron Bars
+|A3=Glass |B3=Iron Bars |C3=Glass
+|Output=[Reinforced Glass]Tinted Glass,4
+}}
+{{Inventory
+|type=generic
+|rows=3
+|title=Industrial Palette Blocks
+|0=Copper Block
+|1=Exposed Copper Block
+|2=Weathered Copper Block
+|3=Oxidized Copper Block
+|4=Cut Copper Block
+|5=Exposed Copper Block
+|6=Weathered Copper Block
+|7=Oxidized Copper Block
+|8=Lightning Rod
+|9=Tinted Glass
+|10=Compass
+|11=Anvil
+|12=Cauldron
+|13=Hopper
+|14=Blast Furnace
+|15=Block of Netherite
+|16=Grindstone
+|17=Smithing Table
+|18=End Rod
+|19=Soul Lantern
+|20=Iron Trapdoor
+|21=Stonecutter
+|22=Piston
+|23=Chain
+|24=Iron Bars
+|25=Rail
+}}
+[[File:Block of Iron.png|100px]][[File:Iron Door.png|100px]][[File:Iron Trapdoor.png|100px]]
+
+[[File:Cauldron.png|100px]][[File:Hopper.png|100px]][[File:Anvil.png|100px]][[File:Iron Bars.png|100px]]
+
+{{Crafting Table
+|A1=Smooth Stone |B1=Smooth Stone |C1=
+|A2=Smooth Stone |B2=Smooth Stone |C2=
+|A3= |B3= |C3=
+|Output=
+}}
+
+{{Crafting Table
+|A1=Polished Andesite |B1=Polished Andesite |C1=
+|A2=Polished Andesite |B2=Polished Andesite |C2=
+|A3= |B3= |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Polished Granite |B1=Polished Granite|C1=
+|A2=Polished Granite |B2=Polished Granite|C2=
+|A3= |B3= |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Polished Diorite |B1=Polished Diorite |C1=
+|A2=Polished Diorite |B2=Polished Diorite |C2=
+|A3= |B3= |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Stick |B1=String |C1=
+|A2=Stick |B2= |C2=String
+|A3=Stick |B3= |C3=
+|Output=
+}}
+[[File:Raw Iron JE1.png]][[File:Raw Iron JE2.png]][[File:Raw Iron (pre-release).png]][[File:Raw Iron JE3.png]]<br>
+[[File:Raw Gold JE1.png]][[File:Raw Gold JE2.png]][[File:Raw Gold (pre-release).png]][[File:Raw Gold JE3.png]]<br>
+[[File:Raw Copper JE1.png]][[File:Raw Copper JE2.png]][[File:Raw Copper (pre-release).png]][[File:Raw Copper JE3.png]]<br>
+[[File:Honeycomb Block.png|100px]]<big> + </big>[[File:Glass Bottle.png|75px]]<big> = </big>[[File:Wax Block (recreated model).png|100px]]<big> + </big>[[File:Honey Bottle.png|75px]]
+{{Crafting Table
+|B2=Wax Block
+|Output=[Wax]Crystallized Honey,4
+}}
+{{Crafting Table
+|B1=String
+|B2=[Wax]Crystallized Honey
+|Output=Candle
+}}
+{{Crafting Table
+|B2=Copper Block
+|C2=[Wax]Crystallized Honey
+|Output=Waxed Copper Block
+}}
+{{Crafting Table
+|A1= |B1= |C1=
+|A2=Stick |B2=Nether Quartz |C2=Stick
+|A3=Stone |B3=Stone |C3=Stone
+|Output=Redstone Comparator
+}}
+{{Crafting Table
+|A1= |B1=Redstone Dust |C1=
+|A2=Redstone Dust |B2=Stick |C2=Redstone Dust
+|A3= |B3= |C3=
+|Output=
+}}
+
+{{Crafting Table
+|A1=Redstone Dust |B1= |C1=Redstone Dust
+|A2=Stick |B2=Redstone Dust |C2=Stick
+|A3=Stone |B3=Stone |C3=Stone
+|Output=Redstone Repeater
+}}
+{{Exclusive|bedrock}}
+{{Exclusive|java}}
+{{Exclusive|education}}
+{{Exclusive|console}}
+
+{{Inventory
+|type=generic
+|rows=5
+|title=Integrated Circuit
+}}
+{{Crafting Table
+|A1=Iron Ingot |B1=Crying Obsidian |C1=Iron Ingot
+|A2= |B2=Netherite Ingot |C2=
+|A3= |B3=End Rod |C3=
+|Output=
+}}
+{{Crafting Table
+|A1=Blackstone |B1=Blackstone |C1=Blackstone
+|B2=Blaze Rod
+|B3=Blaze Rod
+}}
+[[File:Crimson Roots.png|100px]]<big> + </big>[[File:Bone Meal.png|30px]]<big> = </big>[[File:Crimson Fungus.png|100px]]
+<br>
+[[File:Crimson Roots.png|100px]]<big> + </big>[[File:Bone Meal.png|30px]]<big> = </big>[[File:Crimson Roots.png|100px]]<big> + </big>[[File:Crimson Fungus (texture) JE1 BE1.png|30px]]
+
+
+[[File:Egg.png|100px]][[File:Chicken Spawn Egg.png|100px]]<br>
+[[File:Turtle Egg (item) JE2 BE2.png|100px]][[File:Turtle Spawn Egg.png|100px]]<br>
+[[File:Dragon Egg.png|100px]][[File:Barrier.png|100px]]
+
+{{Slot|Egg}}{{Slot|Chicken Spawn Egg}}
+
+{{Slot|Turtle Egg}}{{Slot|Turtle Spawn Egg}}
+
+{{Slot|Dragon Egg}}{{Slot|Barrier}}
+
+[[File:Stone.png|100px]][[File:Andesite.png|100px]][[File:Diorite.png|100px]][[File:Granite.png|100px]]
+
+[[File:Deepslate.png|100px]][[File:Tuff.png|100px]][[File:Calcite.png|100px]][[File:Dripstone Block.png|100px]]
+
+{{Crafting Table
+|A1=Gunpowder |B1=Sand |C1=Gunpowder
+|A2=Sand |B2=Gunpowder |C2=Sand
+|A3=Gunpowder |B3=Sand |C3=Gunpowder
+|Output=TNT
+}}
+{{Crafting Table
+|A1=Redstone Dust |B1=Red Sand |C1=Redstone Dust 
+|A2=Red Sand |B2=Redstone Dust |C2=Red Sand
+|A3=Redstone Dust |B3=Red Sand |C3=Redstone Dust 
+|Output=
+}}
+{{Crafting Table
+|A1=Sugar |B1=Sand |C1=Sugar
+|A2=Sand |B2=Sugar|C2=Sand
+|A3=Sugar|B3=Sand |C3=Sugar
+|Output=
+}}
+{{Crafting Table
+|A1=Glowstone Dust |B1=Soul Sand |C1=Glowstone Dust 
+|A2=Soul Sand |B2=Glowstone Dust |C2=Soul Sand
+|A3=Glowstone Dust |B3=Soul Sand |C3=Glowstone Dust 
+|Output=
+}}

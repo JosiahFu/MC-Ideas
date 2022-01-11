@@ -1,0 +1,26 @@
+Enchantment Mod Ideas
+
+1.Binding
+(not to be confused with Curse of Binding)
+Incompmatible with Mending, Curse of Vanishing, and Heat Shielding
+Max level: III
+When the player dies, they keep this item, but one level of the enchantment is removed
+Is a treasure enchantment
+Can be applied to all tools, armor, elytras, heads, carved pumpkins, and shulker boxes
+
+2.Lightning Strike
+Incompatible with Flame
+Max level: I
+Same as Channeling, but for bows
+
+3.Thrust
+Incompatible with Punch, Riptide, Multishot, Quick Charge
+Max level: II
+Makes tridents and arrows fly further
+Can be applied to tridents, bows, and crossbows
+
+4.Heat shielding
+Incompatible with Mending and Binding
+Max Level: I
+Prevents items from being burned and makes them float on lava, like netherite items. However, it slowly uses durability.
+Can be applied to all tools, armor, and elytras

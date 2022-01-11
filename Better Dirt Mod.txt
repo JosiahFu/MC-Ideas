@@ -1,0 +1,76 @@
+==Better Dirt Mod==
+Adds many grass and dirt related blocks
+
+- Coarse dirt layer generates underneath normal dirt layer
++ Rocky Dirt
+  - Crafted from coarse dirt and cobblestone
+  - Shovel and pick are equally efficient but slower than dirt or stone
+  - Generates in a layer between coarse dirt and stone layer
+- Random patches of dirt no longer generate beneath the stone layer
+
+- Rooted Dirt renamed to Azalea Rooted Dirt
++ Rooted Dirt
+  - Darker root textures
+  - Behaves the same as as azalea rooted dirt
+  - Generates under trees, including when bonemealed
++ Mycelium Rooted Dirt
+  - Gray-purple root textures
+  - Behaves the same as rooted dirt
+  - Generates under giant mushrooms and mycelium fields
+  - Can be bonemealed to become mycelium
++ Hanging Mycelium
+  - Behaves the same as hanging roots
+
+- Breaking Grass Blocks also has a chance of dropping seeds
+- Hoeing Grass Blocks has a chance of dropping seeds
+
+- Dirt path renamed back to grass path
+- Grass path can be silk touched
++ Dirt Path
+  - Obtained by shoveling dirt or any path block
++ Mycelium Path
+  - Obtained by shoveling mycelium
++ Podzol Path
+  - Obtained by shoveling podzol
++ Crimson Path
+  - Obtained by shoveling crimson nylium
++ Warped Path
+  - Obtained by shoveling warped nylium
+
++ Sporegrass
+  - Generates naturally in Mushroom Plains
+  - Can be planted on any dirt type block
+  - Generates around a giant mushroom when it is bonemealed to full size
+
+- Mud (Block) renamed to Packed Mud
++ Mud (Fluid)
+  - Bucket of Mud can be crafted with 8 dirt and water bucket
+  - Generates rarely when rain falls on dirt
+  - Converts to packed mud in direct sunlight, unless (unimplemented)
+  - Can be dried into clay like packed mud
+  - If a pig enters mud, it becomes a muddy pig
++ Muddy Pig
+  - Mud can dry if in sun long enough
+  - Dried Muddy Pig becomes normal pig when it enters water
+
++ (New mechanic) 
+
++ Soul Farmland
+  - Can be obtained by hoeing soul soil
+  - Can grow crops 1.5x faster
+  - Can grow nether wart 2x faster
+  - When irrigated by lava, crops grow 2x faster
+  - When irrigated by lava, nether wart grows 3x faster
+
++ Crimson Soul Soil
+  - Can be obtained by bonemealing crimson nylium or crimson soul soil next to soul soil
+  - Acts similarly to crimson nylium
+  - Mined by shovel
+  - When set on fire, converts back to soul soil randomly
+
++ Warped End Stone
+  - Can be obtained by bonemealing warped nylium or warped end stone next to end stone
+  - Acts similarly to warped nylium
+  - 
+
+- Nether sprouts can be crafted 3x3 into warped wart block

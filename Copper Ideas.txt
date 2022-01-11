@@ -1,0 +1,55 @@
+==Copper Ideas==
+{{Crafting Table
+|B2=Copper Ingot
+|Output=[Copper Nugget]Gold Nugget,9
+}}
+{{Crafting Table
+|B1=[Copper Nugget]Gold Nugget
+|B2=Stick
+|B3=Feather
+|Output=[Copper Arrow]Spectral Arrow,2
+}}
+{{Crafting Table
+|A1=[Copper Nugget]Gold Nugget
+|B1=[Copper Nugget]Gold Nugget
+|A2=[Copper Nugget]Gold Nugget
+|B2=[Copper Nugget]Gold Nugget
+|Output=[Copper Dust]Glowstone Dust
+}}
+{{Crafting Table
+|B1=[Copper Dust]Glowstone Dust
+|B2=Coal
+|B3=Stick
+|Output=Green Torch
+}}
+{{Crafting Table
+|A1=Iron Nugget |B1=Iron Nugget |C1=Iron Nugget
+|A2=Iron Nugget |B2=Green Torch |C2=Iron Nugget
+|A3=Iron Nugget |B3=Iron Nugget |C3=Iron Nugget
+|Output=[Green Lantern]Soul Lantern
+}}
+{{Crafting Table
+|A1= |B1=Stick |C1=
+|A2=Stick |B2=[Copper Dust]Glowstone Dust |C2=Stick
+|A3=Any Log or Stem; Any Stripped Log or Stem; Any Wood or Hyphae; Any Stripped Wood or Hyphae |B3=Any Log or Stem; Any Stripped Log or Stem; Any Wood or Hyphae; Any Stripped Wood or Hyphae |C3=Any Log or Stem; Any Stripped Log or Stem; Any Wood or Hyphae; Any Stripped Wood or Hyphae
+|Output=[Green Campfire]Soul Campfire
+}}
+{{Crafting Table
+|A1= |B1=Copper Ingot |C1=
+|A2=Copper Ingot |B2=Redstone Dust |C2=Copper Ingot
+|A3= |B3=Copper Ingot |C3=
+|Output=
+}}
+{{Furnace
+|Input=Weathered Copper BlocK
+|Fuel=Coal
+|Output=Copper Ingot
+}}
+Copper Golem
+{{BlockGrid|scale=2|p=Carved Pumpkin|i=Copper Block| p |iii| i }}
+Lightly Weathered Copper Golem
+{{BlockGrid|scale=2|p=Carved Pumpkin|i=Lightly Weathered Copper Block| p |iii| i }}
+Semi-Weathered Copper Golem
+{{BlockGrid|scale=2|p=Carved Pumpkin|i=Semi Weathered Copper Block| p |iii| i }}
+Weathered Copper GoleM
+{{BlockGrid|scale=2|p=Carved Pumpkin|i=Weathered Copper Block| p |iii| i }}

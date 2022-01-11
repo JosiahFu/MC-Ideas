@@ -1,0 +1,14 @@
+Soul fire blaze
+
+Has 40 HP
+Spawns very rarely in the soul sand valley, and also when a skeleton walks into soul fire or any skeleton skull is dropped into soul fire
+Has the skull of a skeleton, but with soul fire inside
+Has shields instead of rods
+Shoots soul fireballs (twice damage)
+shoots 10 fireballs in 1 second, then cooldown for 5 seconds
+shields have a 50% chance of blocking any attacks
+If there are players within 2 blocks, it charges for 5 seconds and releases a shockwave attack (knockback+damage)
+50% chance of dropping a Seared Skeleton Skull
+100% chance of dropping a blaze shield
+Extinguishes after 2 minutes, leaving behind a wither skeleton
+Skull blackens over 2 minutes

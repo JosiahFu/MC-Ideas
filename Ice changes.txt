@@ -1,0 +1,40 @@
+Snowy update
+
+* Powder Snow Block is renamed to Snow Block, and Snow Block is renamed to Packed Snow Block
+
+* Snow golems are still made from packed snow blocks
+
+* Snow layers are now non-solid like snow blocks, but don't give the freezing effect
+
+* When 8 snow layers accumulate to a full block, it becomes a snow block
+
+* Snow layers cannnot be picked up by a bucket
+
+* Snow layers can no longer be crafted from 3 packed snow blocks
+
+* Snow layers can exist in the same space as flowers, tallgrass, and other plants (similar to waterlogging)
+
+* Instead of taking damage from powder snow, skeletons will convert to stray (similar to zombie drowning)
+
++ Packed snow layer
+  * Crafted from 3 snowballs, gives 6 layers
+  * Is solid like old snow layer
+
++ Icicles
+  * Similar to  stalactites, but also breaks in high light levels (same as ice)
+  * Forms occasionally when there is a water source above an ice block
+  * Does not drop itself normally, but can be silk touched
+  * Does less damage than stalactites
+  * Also generates in ice caves and on ice spikes
+
++ Ice caves
+  * Generate only in tundra biomes, usually near an iceberg
+  * Walls contain packed ice
+  * Contain icicles
+  * Contain polar bears
+
++ Packed icicles
+  * Crafted from 9 icicles
+  * Forms when there is a water source above a packed ice block, but slower than regular icicles
+  * Deals more damage than regular icicles
+  * Does not melt

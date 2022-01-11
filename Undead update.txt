@@ -1,0 +1,87 @@
+===Undead Update===
+
+==General==
+
+* Husks now spawn in badlands
+
+
+==Zombie Siege Tweaks==
+
+* During zombie sieges, zombies that spawn in the desert have a chance of being husks, and zombies that spawn in water are drowned
+
+* Zombies that spawn in sieges have a higher chance of having gear, and being able to break doors (hard mode only)
+
+* Each siege will spawn one zombie riding a zombie horse, with gear and a sword. The zombie horse is already tamed
+
+
+==Drowned Tweaks==
+
+* Drowned no longer have infinite tridents. Instead, they must walk to their trident and pick it up.
+
+* Only the drowned that threw the trident can pick it up.
+
+* The drowned will prioritize attacking the player over retrieving the trident if they are within 3 blocks or have lower than 5 HP
+
+* Drowned will hit the player with the trident instead of throwing if they are within 5 blocks
+
+* Once the drowned has died, the trident may be picked up by anyone
+
+* Drowned can now utilize trident enchantments. For example, a loyalty-enchanted trident will fly back to its owner and a riptide trident will cause the zombie to fly towards its target, but if the drowned is not in water it can only hit the player.
+
+* Tridents now have a 25% chance of disabling a shield as a projectile
+
+* Drowned spawn in dripstone caves
+
+
+==Wither Skeleton Tweaks==
+
+* Wither skeletons drop wither bones instead of regular bones, but at a lower rate. They still drop coal
+
+* A wither bone can be crafted into 2 wither dust
+
+* Wither dust kills grass and plants, but can be used to grow nether wart.
+
+* 9 wither dust can be crafted into a wither bone block and vice versa
+
+* 8 wither bone blocks can be crafted into a wither skeleton skull
+
++ Decayed Zombie
+  * Is a zombie with parts of its flesh withered away, showing bones
+  * Spawns rarely
+  * Drops rotten flesh and bones
+  * Is faster than zombies
+  * Deals 4 damage
+
++ Husk Horse
+  * Is tameable as normal
+  * Spawns in badlands
+  * Can wear horse armor?
+  
++ Drowned Horse
+  * Spawns only when a zombie horse stays underwater for 30 seconds
+  * Like other undead horses, will not buck you off when you go underwater, but can also be controlled to swim up by sprinting
+  * Faster underwater than other undead horses
+
++ Stray Horse
+  * Has a chance of spawning instead of a skeleton horse when lightning strikes in a snowy biome
+  * Spawns with a stray riding it
+  * Converts water to frosted ice where it walks, equivalent to Frost Walker II
+
++ Wither Skeleton Horse
+  * Spawns rarely in the soul sand valley
+  * Spawns upon generation in nether fortresses with a wither skeleton with netherite gear riding
+  * Is immune to fire
+  * Floats on lava?
+  * Runs faster on soul sand/soil, equivalent to Soul Speed II
+
++ Retch: Is a skeleton wielding a crossbow (?) riding a larger phantom
+
++ Vulture
+  * Spawns in badlands
+  * Attacks all types of zombies, including zombie horses
+  * Will eat rotten flesh items on the ground
+  * Circles around players with less than 4 hearts
+  * Can be tamed by feeding it rotten flesh (Requires about 16-32 flesh)
+  * Tamed vultures will not attack zombie horses
+  * Will follow, teleport, and can be sat by owner
+  * Will bite once if attacked while not tamed
