@@ -4,8 +4,11 @@
 - Place blaze powder can be lit with flint and steel
 - Burning blaze powder produces Blaze Fire, a new fire type
 - Blaze Fire burns itself out eventually like normal fire, but unlike normal fire it does not spread to other blocks
-    - This is useful if you want to set an enemy on fire but don't want to burn your house down
+  - This is useful if you want to set an enemy on fire but don't want to burn your house down
 - Blaze Fire will burn forever if it is placed on netherrack or magma blocks
+- Blazes and blaze fireballs display blaze fire, and fireballs will place blaze fire
+- An ender pearl dropped above blaze fire (e.g. with a trapdoor) will be converted to an eye of ender 
+  - Average of 1.2 pearls can be converted before the fire burns out
 
 ### Blaze Torch
 
