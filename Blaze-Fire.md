@@ -10,7 +10,7 @@
 - An ender pearl dropped above blaze fire (e.g. with a trapdoor) will be converted to an eye of ender 
   - Average of 1.2 pearls can be converted before the fire burns out
 
-### Blaze Torch
+## Blaze Torch
 
     {{Crafting Table
     |A1= |B1=Blaze Powder |C1=
@@ -24,7 +24,7 @@
 - Emits a higher amount of particles when the player is within 100 blocks of a fortress
 - When held in hand or placed, will give nearby blazes a slightly faster attack cooldown
 
-### Blaze Lantern
+## Blaze Lantern
 
     {{Crafting Table
     |A1=Gold Nugget |B1=Nether Brick |C1=Gold Nugget
@@ -36,7 +36,7 @@
 - Can be thrown like a potion or snowball
 - When it hits something, it will set several blocks of blaze fire in a 1-block radius and set any entity within 1 block on fire
 
-### Blaze Arrow
+## Blaze Arrow
 
     {{Crafting Table
     |A1= |B1= |C1=Gold Nugget
