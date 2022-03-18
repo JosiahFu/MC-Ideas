@@ -12,11 +12,34 @@ This lowers the average wither skeleton kills per skull to 45 (5 x 9), which see
 
 ## Withered Shrine
 
+Once you've got your three skulls, you can't just place down a wither wherever you want. What fun would that be?
+
+The next step is to find a withered shrine, a new structure that generates in both forests and the basalt deltas. This is intended to promote exploration and make it feel more like an adventure.
+
+The withered shrine is an ancient structure made of obsidian bricks and wither bone blocks. There is a pedestal in the center and four torch-style pillars (basically a soul soil on top of a pillar).
+
+Placing a skull on the center pedestal and lighting all four torches would initiate the miniboss fight.
+
 ## Wither Miniboss
 
-## Charged Wither Skull
+> WIP
+Name suggestions welcome.
+
+### Charged Wither Skull
+
+If you manage to vanquish a miniboss, it will dropped a charged skull. Each kind of miniboss drops a different kind of skull: the crimson, warped, or deltary skull.
+
+The skull's mouth and eyes would glow the color of its biome, as an emissive texture. This probably has potential for jumpscares.
+
+You'll need one of each charged skull to make a wither, but you'll also need to locate a fourth structure.
 
 ## Soul Withered Shrine
+
+A rarer version of the withered shrine that is only found in the soul sand valley. It's larger and more elaborate, and is mostly made of a new block, reinforced obsidian.
+
+Reinforced obsidian is reinforced with withered bone. It is indestructible by withers, and can only be obtained from the shrine. (Potentially has wall/chain/slab/lantern/brazier variants?) Reinforced obsidian is also pushable, offering many wither-related possibilities.
+
+Placing the three skulls on the soul sand, and then lighting the braziers, will finally summon the wither.
 
 ## The Wither
 
