@@ -1,4 +1,4 @@
-# Josiah-MC-Ideas
+# MC-Ideas
 Repository to dump my Minecraft ideas
 
 ## MCW Format
